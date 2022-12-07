@@ -1,5 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bob van Veen
-====================================================================================================================================I'm a Front-end webdeveloper----------------------------I've started my coding career about a year ago, and I love to create stuff digital. The way I see developers, they are like digital craftsman. I like to create beautiful websites that amaze users and are thoughtfully put together. To achieve this, I use tools like HTML, CSS, and JavaScript. Learning new technologies is a passion. But the main goal is to create pixel perfect results in the fastest way possible.* 🌍  I'm based in Apeldoorn, the Netherlands* 🖥️  See my portfolio at [ikbenbob.nl](http://www.ikbenbob.nl)* ✉️  You can contact me at [bobvanveen@kpnmail.nl](mailto:bobvanveen@kpnmail.nl)* 🧠  I'm learning JavaScript* ⚡  I'm a fan of Christmas
+I'm a Front-end webdeveloper
+I've started my coding career about a year ago, and I love to create stuff digital. The way I see developers, they are like digital craftsman. I like to create beautiful websites that amaze users and are thoughtfully put together. To achieve this, I use tools like HTML, CSS, and JavaScript. Learning new technologies is a passion. But the main goal is to create pixel perfect results in the fastest way possible.* 
+🌍  I'm based in Apeldoorn, the Netherlands* 
+🖥️  See my portfolio at [ikbenbob.nl](http://www.ikbenbob.nl)* 
+✉️  You can contact me at [bobvanveen@kpnmail.nl](mailto:bobvanveen@kpnmail.nl)* 
+🧠  I'm learning JavaScript* 
 
 ### Skills
 
